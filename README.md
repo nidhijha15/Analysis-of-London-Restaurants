@@ -19,4 +19,4 @@ China, and India touches.
   Which types of restaurants are where? Where the restaurants of a particular type are
   located? These are the questions we’ll be focusing on.
   
-  ![alt text](
+  ![alt text](https://github.com/nidhijha15/Analysis-of-London-Restaurants/blob/master/map.png)
