@@ -1,3 +1,5 @@
+# **Introduction**
+
 London is the capital and the largest city of England and the United Kingdom.London is
 considered to be one of the world's most important global cities and has been termed the
 world's most powerful, most desirable,most influential, most visited, most expensive,
@@ -11,8 +13,10 @@ British cuisine encompasses the cooking styles, traditions and recipes associate
 England. It has distinctive attributes of its own, but also shares much of Americans,
 China, and India touches.
   
-Problem
+## **Problem**
 
   Analysing the distribution of restaurants in London is the main aim of this project.
   Which types of restaurants are where? Where the restaurants of a particular type are
   located? These are the questions we’ll be focusing on.
+  
+  ![alt text](
